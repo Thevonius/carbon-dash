@@ -1,0 +1,31 @@
+Retrofit Runner
+Copyright (c) 2026 Emilio Sessa. All rights reserved.
+https://www.linkedin.com/in/emiliosessa/
+
+This repository and the game it contains (source code, compiled code, pixel art, music,
+text, game design and all other assets, together "the Work") are the exclusive property
+of Emilio Sessa and are protected by copyright law.
+
+PERMITTED, free of charge, without asking:
+  1. Playing the game in a web browser at its official address:
+     https://thevonius.github.io/retrofit-runner/
+  2. Sharing the link to that address, including in posts, articles, slides and
+     teaching material, provided Emilio Sessa is credited as the author
+     (for example: "Retrofit Runner by Emilio Sessa").
+  3. Posting screenshots or short clips of your own play sessions, with the same credit.
+
+NOT PERMITTED without prior written permission from Emilio Sessa:
+  - copying, mirroring or re-hosting the Work or any part of it;
+  - modifying, translating, adapting or creating derivative works;
+  - redistributing, publishing, sublicensing or selling the Work or any part of it;
+  - reusing the code, art, music or text in any other project, product or publication;
+  - removing or altering any copyright notice, credit or attribution;
+  - using the Work, or any part of it, to train machine learning models.
+
+The public visibility of this repository is required for hosting and does not grant
+any licence beyond the permissions listed above. No rights are granted by implication.
+
+For permissions, contact Emilio Sessa via https://www.linkedin.com/in/emiliosessa/
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM ITS USE.
