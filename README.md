@@ -28,3 +28,4 @@ The game is based on the following research:
   without written permission.
 
 See [LICENSE](LICENSE) for the full terms.
+
