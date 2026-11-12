@@ -1,9 +1,12 @@
-# Retrofit Runner
+# Carbon Dash
 
-**Play:** https://thevonius.github.io/retrofit-runner/
+**Play:** https://thevonius.github.io/carbon-dash/
+
+*Run the city to net zero by 2050.*
 
 A pixel-art runner for the browser: a world tour of 7 cities where you capture CO2 before 2050,
 dodge emissions, beat a carbon boss in every city and keep inside the carbon budget.
+Before each city a legend card shows every item you will meet there and what it does.
 Works on desktop and mobile. Sound is on by default; press M or use the button to mute.
 
 ## Credits
@@ -28,4 +31,3 @@ The game is based on the following research:
   without written permission.
 
 See [LICENSE](LICENSE) for the full terms.
-
